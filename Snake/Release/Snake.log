@@ -1,0 +1,14 @@
+﻿  piece.cpp
+  game.cpp
+c:\dev\visual studio 2017\projects\neat\neat\src\misc\misc.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\dev\visual studio 2017\projects\neat\snake\src\level\game.cpp(469): warning C4244: 'return': conversion from 'int' to 'const float', possible loss of data
+  main.cpp
+c:\dev\visual studio 2017\projects\neat\neat\src\misc\misc.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\dev\visual studio 2017\projects\neat\snake\src\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  input.cpp
+  Generating code
+  0 of 1223 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Snake.vcxproj -> C:\Dev\Visual Studio 2017\Projects\NEAT\Release\Snake.exe

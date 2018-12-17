@@ -1,0 +1,17 @@
+﻿  values.cpp
+  neat.cpp
+c:\dev\visual studio 2017\projects\neat\neat\src\misc\misc.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\dev\visual studio 2017\projects\neat\neat\src\neat.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\dev\visual studio 2017\projects\neat\neat\src\neat.cpp(101): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  genome.cpp
+c:\dev\visual studio 2017\projects\neat\neat\src\misc\misc.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\dev\visual studio 2017\projects\neat\neat\src\network\genome\genome.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\dev\visual studio 2017\projects\neat\neat\src\network\genome\genome.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\dev\visual studio 2017\projects\neat\neat\src\network\genome\genome.cpp(313): warning C4018: '>=': signed/unsigned mismatch
+c:\dev\visual studio 2017\projects\neat\neat\src\network\genome\genome.cpp(334): warning C4018: '<': signed/unsigned mismatch
+  species.cpp
+c:\dev\visual studio 2017\projects\neat\neat\src\misc\misc.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\dev\visual studio 2017\projects\neat\neat\src\network\genome\genome.cpp(447): warning C4172: returning address of local variable or temporary
+c:\dev\visual studio 2017\projects\neat\neat\src\network\species\species.h(36): warning C4172: returning address of local variable or temporary
+  NEAT.vcxproj -> C:\Dev\Visual Studio 2017\Projects\NEAT\Debug\NEAT.lib

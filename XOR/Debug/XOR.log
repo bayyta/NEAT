@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\dev\visual studio 2017\projects\neat\neat\src\misc\misc.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\dev\visual studio 2017\projects\neat\xor\src\main.cpp(66): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\dev\visual studio 2017\projects\neat\xor\src\main.cpp(67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  XOR.vcxproj -> C:\Dev\Visual Studio 2017\Projects\NEAT\Debug\XOR.exe
